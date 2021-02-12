@@ -1,4 +1,10 @@
-# AWS-Lambda2Slack
+<a href="https://www.hengjiu.jp">
+    <img src="https://www.hengjiu.jp/img/retina/header_logo@2x.jpg" alt="hengjiu logo" title="hengjiu" align="right" height="50" />
+</a>
+
+# [Lambda] AWS-Lambda2Slack
+
+- 言語：Python
 
 ## 1. Fork This Repository.
 
