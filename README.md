@@ -1,4 +1,4 @@
-# lambda2slack
+# AWS-Lambda2Slack
 
 ## 1. Fork This Repository.
 
